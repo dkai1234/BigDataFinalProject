@@ -15,7 +15,7 @@ Each dataset will require extensive comparison within each test series to determ
 It is believed by the author that the works outlined herein offer an exceptional opportunity for furthering understanding of the capability and application of Python libraries in the use of Big Data analytics.  By conducting this analysis, an extensive code will need to be produced that can examine this data in an original way.  Although work has already been completed on these figures, there has been no work conducted along the scope of what is proposed here.
 
 ## **References:**
-[1]	A. P. Nair, C. Jelloian, D. S. Morrow, F. A. Bendana, D. I. Pineda, and R. M. Spearrin, “MHz mid-infrared laser absorption sensor for carbon monoxide and temperature behind detonation waves,” in AIAA Scitech 2020 Forum, 2020, no. January.
-[2]	A. P. Nair et al., “MHz Laser Absorption Spectroscopy via Diplexed RF Modulation for Pressure, Temperature, and Species in Rotating Detonation Rocket Flows,” Appl. Phys. B, vol. 126, no. 8, p. 138, Aug. 2020.
-[3]	B. Franzelli, J. Rocchi, P. Wolf, A. G. Coriolis, and T. Cedex, “Cantera tutorial-V2.1,” pp. 1–55, 2010.
+- [1]	A. P. Nair, C. Jelloian, D. S. Morrow, F. A. Bendana, D. I. Pineda, and R. M. Spearrin, “MHz mid-infrared laser absorption sensor for carbon monoxide and temperature behind detonation waves,” in AIAA Scitech 2020 Forum, 2020, no. January.
+- [2]	A. P. Nair et al., “MHz Laser Absorption Spectroscopy via Diplexed RF Modulation for Pressure, Temperature, and Species in Rotating Detonation Rocket Flows,” Appl. Phys. B, vol. 126, no. 8, p. 138, Aug. 2020.
+- [3]	B. Franzelli, J. Rocchi, P. Wolf, A. G. Coriolis, and T. Cedex, “Cantera tutorial-V2.1,” pp. 1–55, 2010.
 
